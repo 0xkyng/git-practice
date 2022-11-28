@@ -1,3 +1,3 @@
 # Git journey
 
-This is me learning git
+This is me learning git!
