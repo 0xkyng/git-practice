@@ -2,6 +2,6 @@
 
 This is me learning git!
 
-##Subheader
+## Subheader
 
 Following closely.
